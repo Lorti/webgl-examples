@@ -6,7 +6,7 @@ Essential WebGL examples, adapted from [MDN](https://developer.mozilla.org/en-US
 
 1. [Basics (Rotating Cube /w Vertex Colors)](https://lorti.github.io/webgl-examples/example-1/)
 1. [Textures (+ Directional Light)](https://lorti.github.io/webgl-examples/example-2/)
-1. [Per-Pixel Lighting (+ Point Light](https://lorti.github.io/webgl-examples/example-3/)
+1. [Per-Pixel Lighting (+ Point Light)](https://lorti.github.io/webgl-examples/example-3/)
 1. [Sphere Geometry (Creating Primitives)](https://lorti.github.io/webgl-examples/example-4/)
 1. [Teapot Geometry (Using 3D Files)](https://lorti.github.io/webgl-examples/example-5/)
 
