@@ -90,7 +90,7 @@ function main() {
   // objects we'll be drawing.
   const buffers = initBuffers(gl);
 
-  const texture = loadTexture(gl, '../texture.png');
+  const texture = loadTexture(gl, 'texture.png');
 
   let then = 0;
 
